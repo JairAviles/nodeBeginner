@@ -1,0 +1,10 @@
+{
+  "name": "01_HTTP_Server",
+  "version": "0.0.1",
+  "dependencies": {
+    "connect-redis": "^2.4.1",
+    "formidable": "^1.0.17",
+    "swig": "^1.4.2",
+    "underscore": "^1.8.3"
+  }
+}
